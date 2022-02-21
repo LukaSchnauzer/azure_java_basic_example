@@ -21,7 +21,7 @@
 
         <hr>
 
-        <p>Mi nombre aparecer&aacute; <strong><code>AQU&Iacute;</code></strong></p>
+        <p>Mi nombre aparecer&aacute; <strong><code>Smithy Webber J&auml;german Jenssen</code></strong></p>
     </div>
 
     <script src="js/bootstrap.bundle.min.js"></script>
